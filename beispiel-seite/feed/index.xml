@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Kommentare zu: Beispiel-Seite	</title>
-	<atom:link href="/beispiel-seite/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://knusprig55.github.io/chalet/beispiel-seite/feed/" rel="self" type="application/rss+xml" />
+	<link>https://knusprig55.github.io/chalet/</link>
 	<description>Eine weitere WordPress-Website</description>
 	<lastBuildDate>Tue, 17 May 2022 07:41:35 +0000</lastBuildDate>
 	<sy:updatePeriod>

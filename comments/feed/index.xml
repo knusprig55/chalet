@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Kommentare für Chalet am Schützenacker	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://knusprig55.github.io/chalet/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://knusprig55.github.io/chalet/</link>
 	<description>Eine weitere WordPress-Website</description>
 	<lastBuildDate>Tue, 17 May 2022 07:41:35 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Kommentar zu Hallo Welt! von Ein WordPress-Kommentator		</title>
-		<link>/2022/05/17/hallo-welt/#comment-1</link>
+		<link>https://knusprig55.github.io/chalet/2022/05/17/hallo-welt/#comment-1</link>
 
 		<dc:creator><![CDATA[Ein WordPress-Kommentator]]></dc:creator>
 		<pubDate>Tue, 17 May 2022 07:41:35 +0000</pubDate>
-		<guid isPermaLink="false">/?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://knusprig55.github.io/chalet/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hallo, dies ist ein Kommentar.
 Um mit dem Freischalten, Bearbeiten und Löschen von Kommentaren zu beginnen, besuche bitte die Kommentare-Ansicht im Dashboard.
