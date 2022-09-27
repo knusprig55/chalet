@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Chalet am Schützenacker</title>
-	<atom:link href="https://knusprig55.github.io/chalet/feed/" rel="self" type="application/rss+xml" />
+	<title>niko &#8211; Chalet am Schützenacker</title>
+	<atom:link href="https://knusprig55.github.io/chalet/author/niko/feed/" rel="self" type="application/rss+xml" />
 	<link>https://knusprig55.github.io/chalet/</link>
 	<description></description>
 	<lastBuildDate>Tue, 17 May 2022 07:41:35 +0000</lastBuildDate>

@@ -10,13 +10,13 @@
 	Kommentare für Chalet am Schützenacker	</title>
 	<atom:link href="https://knusprig55.github.io/chalet/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://knusprig55.github.io/chalet/</link>
-	<description>Eine weitere WordPress-Website</description>
+	<description></description>
 	<lastBuildDate>Tue, 17 May 2022 07:41:35 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.3</generator>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
 		<title>
 		Kommentar zu Hallo Welt! von Ein WordPress-Kommentator		</title>
